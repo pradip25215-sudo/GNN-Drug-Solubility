@@ -96,8 +96,6 @@ Google Colab (GPU recommended):
 pip install torch torch-geometric rdkit-pypi deepchem matplotlib seaborn scikit-learn
 ```
 
-Run `GNN_Drug_Solubility.ipynb` — takes about 15-20 min.
-
 ## Tools
 
 Python, PyTorch, PyTorch Geometric, RDKit, DeepChem, scikit-learn, matplotlib
